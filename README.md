@@ -9,4 +9,4 @@ Tested with NVCC version 9.0.176 and RTX 2070.
 
 Press ESC to exit.
 
-![alt text](screenshot.jpg)
+![alt text](screenshot.gif)
